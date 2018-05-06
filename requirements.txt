@@ -1,0 +1,8 @@
+Список использованных библиотек:
+
+numpy v1.14.2
+scipy v1.0.1
+PyTorch v0.3.1.post2
+matplotlib v2.0.2
+scikit-learn v0.19.0
+glob
